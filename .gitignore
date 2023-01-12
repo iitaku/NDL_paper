@@ -1,2 +1,5 @@
+Pipfile.lock
 Data/Networks_all_NDL
+.ipynb_checkpoints
 *.pyc
+/*.ipynb
